@@ -13,6 +13,18 @@ ogyaaaaa/rails勉強会では、参加者の自己紹介タイムの時間短縮
 - 夢/2014年の目標とか
 - 進捗どうですか？
 
+# 自己紹介を書いて頂く上で
+自己紹介は、GistにMarkdown記法で書いてみてください。
+## Markdown記法
+[ドットインストール/Markdown記法入門](http://dotinstall.com/lessons/basic_markdown)  
+[Markdown記法 チートシート](http://qiita.com/Qiita/items/c686397e4a0f4f11683d)  
+[README.mdファイル。マークダウン記法まとめ](http://codechord.com/2012/01/readme-markdown/)  
+この辺を見といてください。
+
+## Gistの使い方参考
+[Gistの使い方を覚えました - tyoshikawa1106のブログ](http://tyoshikawa1106.hatenablog.com/entry/2013/04/10/000026)  
+Gistで作成したURLを、LINEのおぎゃあ勉強会グループに連絡下さい。
+
 
 # 各技術のスキルレベル
 これは、レベル感の 希望的観測 や 謙遜 のためにやるのではなく、あくまでも **自己紹介タイムの効率化** を目的として行っている取り組みです。
