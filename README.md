@@ -9,6 +9,7 @@
 # ドキュメント
 [Rails チュートリアル](http://railstutorial.jp/)
 
+# test
 
 # 技術勉強範囲
 ## 開発環境構築
