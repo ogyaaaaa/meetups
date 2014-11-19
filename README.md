@@ -9,7 +9,8 @@
 # ドキュメント
 [Rails チュートリアル](http://railstutorial.jp/)
 
-# test
+# idobata
+[Lounge](https://idobata.io/#/organization/ogyaaaaa/room/Lounge)
 
 # 技術勉強範囲
 ## 開発環境構築
