@@ -10,7 +10,7 @@
 [Rails チュートリアル](http://railstutorial.jp/)
 
 # idobata
-[Lounge](https://idobata.io/#/organization/ogyaaaaa/room/Lounge)
+[Lounge](https://idobata.io/organizations/ogyaaaaa/rooms/Lounge/join_request/b5278a7c-8545-4fc1-be89-aaac7b9186f1)
 
 # 技術勉強範囲
 ## 開発環境構築
