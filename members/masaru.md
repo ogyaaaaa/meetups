@@ -18,7 +18,7 @@
 
 ####ruby/rails スキルレベル
 
-Rails はたまごです。Ruby はバッチ程度なら書いたことがあります。Java、Microsoft .NET、Django では、ウェブを含め何らかのアプリケーションを作ったことはあります。
+Rails はたまごです。Ruby はバッチ程度なら書いたことがあります。C++、Java、Microsoft .NET、ASP.NET、PHP、Django では、ウェブを含め何らかのアプリケーションを作ったことはあります。
 
 ####git/github スキルレベル
 
